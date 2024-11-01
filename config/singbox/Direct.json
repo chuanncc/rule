@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "X",
+        "X"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".dmallcdn.com",
+        ".dmall.com",
+        ".ccb.com",
+        ".ccb.com.cn",
+        ".unionpay.com",
+        ".goofish.com",
+        ".cmbchina.com",
+        ".hdsky.me",
+        ".ptchdbits.co",
+        ".totheglory.im",
+        ".tjupt.org",
+        ".et8.org",
+        ".soulvoice.club",
+        ".chdbits.co",
+        ".hddolby.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "X",
+        "X"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.10.16.254/32",
+        "10.10.16.254/32"
+      ]
+    }
+  ]
+}
