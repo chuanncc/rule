@@ -25,9 +25,10 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
-DOMAIN-SUFFIX,edgeservices.bing.com,Proxy
-DOMAIN-SUFFIX,sydney.bing.com,Proxy
-DOMAIN-SUFFIX,www.bing.com,Proxy
-DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
-DOMAIN-SUFFIX,cdn.bing.com,Proxy
-DOMAIN-SUFFIX,chat.bing.com,Proxy
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,www.bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cdn.bing.com
+DOMAIN-SUFFIX,chat.bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
