@@ -2,12 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "X",
-        "X"
-      ]
-    },
-    {
       "domain_suffix": [
         ".qichiyu.com",
         ".livednow.com",
@@ -27,20 +21,27 @@
         ".stream-link.online",
         ".stream-link.org",
         ".v2h-cdn.com",
-        ".809688.xyz"
+        ".jmsuper.com",
+        ".term.wtf",
+        ".workers.dev",
+        ".livednow.com",
+        ".livednow.org",
+        ".wx.sb",
+        ".misakaf.org",
+        ".hg16888.vip",
+        ".aktv.top",
+        ".astro.com.my",
+        ".peacocktv.com",
+        ".secureswiftcontent.com",
+        ".wanicelife.com",
+        ".cloudfront.net",
+        ".mncnow.id",
+        ".my.id",
+        ".nucdn.net",
+        ".akamaized.net"
+
       ]
     },
-    {
-      "domain_keyword": [
-        "X",
-        "X"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "10.10.16.254/32",
-        "10.10.16.254/32"
-      ]
-    }
+ 
   ]
 }
