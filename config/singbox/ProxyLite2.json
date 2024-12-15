@@ -19,12 +19,10 @@
         ".jmsooo.com",
         ".stream-link.org",
         ".stream-link.online",
-        ".stream-link.org",
         ".v2h-cdn.com",
         ".jmsuper.com",
         ".term.wtf",
         ".workers.dev",
-        ".livednow.com",
         ".livednow.org",
         ".wx.sb",
         ".misakaf.org",
@@ -39,9 +37,8 @@
         ".my.id",
         ".nucdn.net",
         ".akamaized.net"
-
       ]
-    },
- 
+    }
   ]
 }
+
