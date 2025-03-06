@@ -1,0 +1,40 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,snssdk.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+
+# Pixman
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+
+# PT
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,hddolby.com
+
+# AccelerateDirectSites
+DOMAIN-SUFFIX,dmallcdn.com
+DOMAIN-SUFFIX,dmall.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,cmbchina.com
