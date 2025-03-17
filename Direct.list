@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,snssdk.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ptchdbits
+DOMAIN-KEYWORD,tjupt
+DOMAIN-KEYWORD,chdbits
 
 # Pixman
 DOMAIN-SUFFIX,dnsany.com
