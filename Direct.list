@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 局域网设备直连
-SRC-IP-CIDR，10.10.11.252/32
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
